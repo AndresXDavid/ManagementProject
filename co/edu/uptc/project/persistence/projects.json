@@ -1,0 +1,19 @@
+[
+  {
+    "title": "Project A",
+    "description": "Description of project A",
+    "startDate": "2024-01-01",
+    "endDate": "2024-12-31",
+    "taskList": [
+      {
+        "title": "Task 1",
+        "description": "Description of task 1",
+        "status": "pending",
+        "assignedUser": null,
+        "creationDate": "2024-01-01",
+        "completionDate": null
+      }
+    ],
+    "assignedUsers": []
+  }
+]
